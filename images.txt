@@ -2,3 +2,5 @@
 opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+#稳定版nginx 1.26.2镜像
+nginx:1.26.2
